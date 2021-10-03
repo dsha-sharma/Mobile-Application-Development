@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="noteFile">noteFile</string>
+    <string name="encoding">UTF-8</string>
+</resources>
