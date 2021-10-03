@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stock Assistant</string>
+    <string name="additem">additem</string>
+    <string name="symbol">symbol</string>
+    <string name="price">price</string>
+    <string name="company_name">Company Name</string>
+    <string name="changes">Changes</string>
+    <string name="percent">percent</string>
+    <string name="nevermind_selected">nevermind_selected</string>
+    <string name="na">NA</string>
+</resources>
